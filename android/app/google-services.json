@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "237534814926",
+    "project_id": "assignment-7bae4",
+    "storage_bucket": "assignment-7bae4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237534814926:android:4bb5e51f3dc5b204afe69f",
+        "android_client_info": {
+          "package_name": "com.nextflixapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1ICH72HgOk6FLDy2jVV32cyAd4auwSTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

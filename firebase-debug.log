@@ -1,0 +1,21 @@
+[debug] [2025-01-14T17:29:11.884Z] ----------------------------------------------------------------------
+[debug] [2025-01-14T17:29:11.910Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\monuk\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2025-01-14T17:29:11.911Z] CLI Version:   13.29.1
+[debug] [2025-01-14T17:29:11.912Z] Platform:      win32
+[debug] [2025-01-14T17:29:11.912Z] Node Version:  v20.9.0
+[debug] [2025-01-14T17:29:11.914Z] Time:          Tue Jan 14 2025 22:59:11 GMT+0530 (India Standard Time)
+[debug] [2025-01-14T17:29:11.915Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-01-14T17:29:11.938Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-01-14T17:29:11.939Z] > authorizing via signed-in user (rohitk29032005@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\nextflixApp
+
